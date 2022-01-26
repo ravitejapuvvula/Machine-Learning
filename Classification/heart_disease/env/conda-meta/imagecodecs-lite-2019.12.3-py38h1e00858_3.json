@@ -1,0 +1,145 @@
+{
+  "build": "py38h1e00858_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.16.5,<2.0a0",
+    "python >=3.8,<3.9.0a0",
+    "python_abi 3.8.* *_cp38",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012"
+  ],
+  "extracted_package_dir": "C:\\Users\\Ravi Puvvula\\anaconda3\\pkgs\\imagecodecs-lite-2019.12.3-py38h1e00858_3",
+  "features": "",
+  "files": [
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/INSTALLER",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/LICENSE",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/METADATA",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/RECORD",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/REQUESTED",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/WHEEL",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/direct_url.json",
+    "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/top_level.txt",
+    "Lib/site-packages/imagecodecs_lite/__init__.py",
+    "Lib/site-packages/imagecodecs_lite/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/imagecodecs_lite/__pycache__/imagecodecs.cpython-38.pyc",
+    "Lib/site-packages/imagecodecs_lite/_imagecodecs_lite.cp38-win_amd64.pyd",
+    "Lib/site-packages/imagecodecs_lite/imagecodecs.py",
+    ".nonadmin"
+  ],
+  "fn": "imagecodecs-lite-2019.12.3-py38h1e00858_3.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Ravi Puvvula\\anaconda3\\pkgs\\imagecodecs-lite-2019.12.3-py38h1e00858_3",
+    "type": 1
+  },
+  "md5": "5e71cffa49d5313fbd60525aed2bd2be",
+  "name": "imagecodecs-lite",
+  "package_tarball_full_path": "C:\\Users\\Ravi Puvvula\\anaconda3\\pkgs\\imagecodecs-lite-2019.12.3-py38h1e00858_3.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "797e5d0a81880f4c86e306968cccb9da49604ad919a75ff94c730a297c62ac67",
+        "sha256_in_prefix": "797e5d0a81880f4c86e306968cccb9da49604ad919a75ff94c730a297c62ac67",
+        "size_in_bytes": 1684
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d6734f04e1bf396836918f0f2c0c56d28ba4851a9f8ffb6db8658bb04ea4f76c",
+        "sha256_in_prefix": "d6734f04e1bf396836918f0f2c0c56d28ba4851a9f8ffb6db8658bb04ea4f76c",
+        "size_in_bytes": 2773
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "444bf46141c61ffcbb49713e57e1d2793bb513ac9e2f2119e3a24f9b583dd440",
+        "sha256_in_prefix": "444bf46141c61ffcbb49713e57e1d2793bb513ac9e2f2119e3a24f9b583dd440",
+        "size_in_bytes": 1170
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f4c7542343b3c2361a1e5de35a52850c827930504f8f0a6936058db5ec67b6a8",
+        "sha256_in_prefix": "f4c7542343b3c2361a1e5de35a52850c827930504f8f0a6936058db5ec67b6a8",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "66f0e422d60d78386ba0d0dfce624a32bb9be11501f4e8ae60a06c55bb81851d",
+        "sha256_in_prefix": "66f0e422d60d78386ba0d0dfce624a32bb9be11501f4e8ae60a06c55bb81851d",
+        "size_in_bytes": 77
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite-2019.12.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5aab174b11997ee7b37779ac07f7999c81df16be124b581f381ff1db94547873",
+        "sha256_in_prefix": "5aab174b11997ee7b37779ac07f7999c81df16be124b581f381ff1db94547873",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5d1ff6899f76cd9b49d8dfd45488928f0cfbeb90dfb305f40c309681178f1520",
+        "sha256_in_prefix": "5d1ff6899f76cd9b49d8dfd45488928f0cfbeb90dfb305f40c309681178f1520",
+        "size_in_bytes": 146
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff10099f13ab3e3093c960e432be02eaa2d5faa35b767083c2dee1ff63be77c2",
+        "sha256_in_prefix": "ff10099f13ab3e3093c960e432be02eaa2d5faa35b767083c2dee1ff63be77c2",
+        "size_in_bytes": 223
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite/__pycache__/imagecodecs.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "649df8b997ecd115135a35d7715c795aee94c5e9891c663fdd8a8f38302117ea",
+        "sha256_in_prefix": "649df8b997ecd115135a35d7715c795aee94c5e9891c663fdd8a8f38302117ea",
+        "size_in_bytes": 23460
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite/_imagecodecs_lite.cp38-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "b725eab64cd9ff5e2072812c7d86cf864d974d20627835fc7ed6c20559777561",
+        "sha256_in_prefix": "b725eab64cd9ff5e2072812c7d86cf864d974d20627835fc7ed6c20559777561",
+        "size_in_bytes": 311296
+      },
+      {
+        "_path": "Lib/site-packages/imagecodecs_lite/imagecodecs.py",
+        "path_type": "hardlink",
+        "sha256": "bb7e61e56f3af0559cba8497c22c4af1182185cc4c3da01aebb86cc196aa541d",
+        "sha256_in_prefix": "bb7e61e56f3af0559cba8497c22c4af1182185cc4c3da01aebb86cc196aa541d",
+        "size_in_bytes": 27249
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "imagecodecs-lite==2019.12.3=py38h1e00858_3",
+  "sha256": "20b579ddda149f2eaec3578925c092fbbc32ea80af63c7cbc9ba223a374743ee",
+  "size": 157783,
+  "subdir": "win-64",
+  "timestamp": 1602583558866,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/imagecodecs-lite-2019.12.3-py38h1e00858_3.tar.bz2",
+  "version": "2019.12.3"
+}
